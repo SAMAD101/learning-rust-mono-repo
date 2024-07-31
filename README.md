@@ -1,4 +1,3 @@
-# Rusty stuff 
-A mono repo for rusty stuff.
+A repo for my Rust learning.
 
 following **The Book**
